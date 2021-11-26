@@ -113,12 +113,9 @@ namespace Program
         {
             Client client = new Client();
 
-            client.ClientCode(new XMLDateFormat(
-                new ConcreteImplementationB(
-                    "2021", "11", "26"
-                    )
-                )
-            );
+            ConcreteImplementationA a = new ConcreteImplementationA("2021", "11", "26");
+            DateFormat xml = new XMLDateFormat(a);
+            xml.Operation();
         }
     }
 }
