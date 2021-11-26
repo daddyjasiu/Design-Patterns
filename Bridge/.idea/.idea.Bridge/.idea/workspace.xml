@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaf4b46d-3e34-414a-b090-f28e3193ae5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridge/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bridge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bridge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bridge/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/Bridge.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/Bridge.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/Bridge.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/Bridge.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/ref/Bridge.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/bin/Debug/net5.0/ref/Bridge.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/Bridge.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/Bridge.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/Bridge.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/Bridge.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/ref/Bridge.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/obj/Debug/net5.0/ref/Bridge.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637911512063</updated>
       <workItem from="1637911524271" duration="3326000" />
+      <workItem from="1637914913192" duration="223000" />
     </task>
     <servers />
   </component>
@@ -76,7 +73,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
