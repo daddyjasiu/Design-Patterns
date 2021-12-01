@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Channels;
 
 namespace Program
@@ -116,6 +117,7 @@ namespace Program
             ConcreteImplementationA a = new ConcreteImplementationA("2021", "11", "26");
             DateFormat xml = new XMLDateFormat(a);
             xml.Operation();
+
         }
     }
 }
