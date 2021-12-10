@@ -1,0 +1,16 @@
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.csproj.AssemblyReference.cache
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.exe
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.deps.json
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.dll
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\ref\Command.dll
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\bin\Debug\net5.0\Command.pdb
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.dll
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\ref\Command.dll
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.pdb
+C:\Users\jansk\OneDrive\Documents\UJ\Wzorce Projektowe\Command\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
